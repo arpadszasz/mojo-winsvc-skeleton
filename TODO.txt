@@ -1,0 +1,1 @@
+- restart Mojo daemon in development mode

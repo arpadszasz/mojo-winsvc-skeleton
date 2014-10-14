@@ -1,3 +1,10 @@
+*.c
+*.exe
+*.h
+*.log
+*.zip
+_*.pl
+dist/*
+installer/*
+pdk/*
 tmp/*
-!.gitignore
-!.keep
